@@ -12,6 +12,9 @@ A collection of CodeForces problem solutions written in Java, with full JUnit 5 
 2. [71A Way Too Long Words](https://codeforces.com/problemset/problem/71/A) — [Main Class File](src/main/java/com/polybit/WayTooLongWords_71A.java) · [Test File](src/test/java/com/polybit/WayTooLongWords_71ATest.java)
 3. [231A Team](https://codeforces.com/problemset/problem/231/A) — [Main Class File](src/main/java/com/polybit/Team_231A.java) · [Test File](src/test/java/com/polybit/Team_231ATest.java)
 4. [282A Bit++](https://codeforces.com/problemset/problem/282/A) — [Main Class File](src/main/java/com/polybit/BitPlusPlus_282A.java) · [Test File](src/test/java/com/polybit/BitPlusPlus_282ATest.java)
+5. [158A Next Round](https://codeforces.com/problemset/problem/158/A) — [Main Class File](src/main/java/com/polybit/NextRound_158A.java) · [Test File](src/test/java/com/polybit/NextRound_158ATest.java)
+6. [50A Domino Piling](https://codeforces.com/problemset/problem/50/A) — [Main Class File](src/main/java/com/polybit/DominoPiling_50A.java) · [Test File](src/test/java/com/polybit/DominoPiling_50ATest.java)
+7. [263A Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) — [Main Class File](src/main/java/com/polybit/BeautifulMatrix_263A.java) · [Test File](src/test/java/com/polybit/BeautifulMatrix_263ATest.java)
 
 ---
 
